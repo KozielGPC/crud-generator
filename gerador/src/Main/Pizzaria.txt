@@ -1,0 +1,4 @@
+String;ID
+String;Nome
+double;Quantidade
+double;Valor

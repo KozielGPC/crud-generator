@@ -1,0 +1,5 @@
+String;Ra
+String;Nome
+String;Curso
+boolean;Matriculado
+double;Coeficiente
